@@ -1,3 +1,35 @@
+# Photo Album Web Application (Laravel)
+
+Program: BSIT 
+Activity Tittle: LAB. Activity  - Photo Album
+Name: Aedrian Ares
+
+---
+
+ 📸 Description
+This Laravel project displays a digital photo album with 100 images divided into 5 categories:
+
+| Page | Category | Images |
+|------|-----------|---------|
+| 1 | Nature  | 20 |
+| 2 | Architecture  | 20 |
+| 3 | Animal  | 20 |
+| 4 | People | 20 |
+| 5 | Tourist Spots | 20 |
+
+<img width="1920" height="1080" alt="Screenshot 2025-11-19 193730" src="https://github.com/user-attachments/assets/4a8e6c99-5b96-4cb0-ae3c-7f808bf8b9dc" />
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
