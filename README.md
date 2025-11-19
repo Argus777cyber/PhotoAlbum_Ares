@@ -17,7 +17,12 @@ This Laravel project displays a digital photo album with 100 images divided into
 | 4 | People | 20 |
 | 5 | Tourist Spots | 20 |
 
-<img width="1920" height="1080" alt="Screenshot 2025-11-19 193730" src="https://github.com/user-attachments/assets/4a8e6c99-5b96-4cb0-ae3c-7f808bf8b9dc" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-19 193730" src="https://github.com/user-attachments/assets/9e23a35c-3797-488b-b1ee-f5b7d0c5c92c" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-19 193740" src="https://github.com/user-attachments/assets/64c21227-a6ca-4a6d-9854-7adea8a17c7c" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-19 193755" src="https://github.com/user-attachments/assets/185375f5-b1a5-4b47-94f4-1044c16740c0" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-19 193804" src="https://github.com/user-attachments/assets/7d84969b-c5db-47de-b76f-1971efa1ca58" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-19 193812" src="https://github.com/user-attachments/assets/8bbab057-1b68-47e9-8901-b6f78edb2f7b" />
+<img width="1920" height="1080" alt="Screenshot 2025-11-19 193821" src="https://github.com/user-attachments/assets/a6bd27e1-63c1-4ea1-bf36-f38293d494eb" />
 
 
 
